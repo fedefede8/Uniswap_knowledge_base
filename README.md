@@ -1,2 +1,3 @@
 # Uniswap_knowledge_base
-Uniswap tutorials and how to guides
+
+This repository collects basic tutorials on how to use Uniswap in various languages.
