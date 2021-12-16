@@ -6,6 +6,8 @@ There is a directory for each language we currently have tutorials for with each
 
 Please feel free to collaborate and enrich the collection!
 
+<br>
+
 ## Contributing Guidelines
 
 In order to contribute you can [fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo) our repository and [push a pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) for review. 
