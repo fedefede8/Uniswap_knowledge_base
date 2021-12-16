@@ -13,7 +13,8 @@ In order to contribute you can [fork](https://docs.github.com/en/get-started/qui
 Changes allowed and supported are:
 
 - Add a new language directory (directory name = language ISO 639-1 code according to this [list](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes))
-- Add a new tutorial 
+- Add new tutorials 
+- Propose new categories
 
 
 
